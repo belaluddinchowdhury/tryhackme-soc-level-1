@@ -59,3 +59,5 @@ Here is how the threat vectors were successfully resolved:
 
 ### Lab Flag/Token:
 `THM{trysecureme_is_secured!}`
+<img width="975" height="896" alt="image" src="https://github.com/user-attachments/assets/bfd3bdf3-bd59-4170-8d99-35b85e532faa" />
+
