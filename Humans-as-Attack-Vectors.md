@@ -64,7 +64,8 @@ During the practical lab simulation, evaluated an insecure organizational layout
 ## 5. Proof of Work (Lab Completion Screenshots)
 
 ### Employees at Risk Scenario Solved
-![Employees at Risk Flag](image_bed41f.png)
+<img width="1034" height="460" alt="image" src="https://github.com/user-attachments/assets/833f2e6f-f582-4aea-ab01-a14120e9430b" />
 
 ### Security Policy Baseline Enforced
-![Security Policy Flag](image_bed6e5.png)
+<img width="1034" height="460" alt="image" src="https://github.com/user-attachments/assets/1257646b-b597-4731-9eb7-6a49f078834a" />
+
