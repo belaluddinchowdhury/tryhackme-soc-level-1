@@ -20,3 +20,5 @@ This repository dedicatedly documents the practical labs, analysis workflows, an
   * *Core Focus:* SIEM Alert triage, infrastructure lookup, incident escalation, and firewall mitigation.
 * **[SOC Role in Blue Team](./SOC-Role-In-Blue-Team.md)**
   * *Core Focus:* Security hierarchy, Blue Team specializations, Internal SOC vs MSSP, and CISO incident routing.
+  * * **[Humans as Attack Vectors](./Humans-as-Attack-Vectors.md)**
+  * *Core Focus:* Social engineering psychology, technical mitigation vs detection, and workforce security profiling.
