@@ -15,9 +15,4 @@ This repository dedicatedly documents the practical labs, analysis workflows, an
 
 ---
 
-## Course Curriculum & Progress Tracking
 
-### Module 1: Blue Team Introduction
-* **[Junior Security Analyst - Incident Response](./Junior-Security-Analyst-Intro.md)**
-  * *Core Focus:* SIEM Alert triage, infrastructure lookup, incident escalation, and firewall mitigation.
-  * 
