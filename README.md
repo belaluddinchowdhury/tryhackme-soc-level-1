@@ -22,3 +22,5 @@ This repository dedicatedly documents the practical labs, analysis workflows, an
   * *Core Focus:* Security hierarchy, Blue Team specializations, Internal SOC vs MSSP, and CISO incident routing.
 * **[Humans as Attack Vectors](./Humans-as-Attack-Vectors.md)**
   * *Core Focus:* Social engineering psychology, technical mitigation vs detection, and workforce security profiling.
+* **[Systems as Attack Vectors](./Systems-as-Attack-Vectors.md)**
+  * *Core Focus:* Vulnerability patch tracking (CVE metrics), supply chain threats, configuration auditing, and defensive infrastructure remediation.
