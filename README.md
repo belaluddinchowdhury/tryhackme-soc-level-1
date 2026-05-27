@@ -24,3 +24,6 @@ This repository dedicatedly documents the practical labs, analysis workflows, an
   * *Core Focus:* Social engineering psychology, technical mitigation vs detection, and workforce security profiling.
 * **[Systems as Attack Vectors](./Systems-as-Attack-Vectors.md)**
   * *Core Focus:* Vulnerability patch tracking (CVE metrics), supply chain threats, configuration auditing, and defensive infrastructure remediation.
+### Module 2: SOC Team Internals
+* **[SOC L1 Alert Triage](./SOC-L1-Alert-Triage.md)**
+    * *Core Focus:* SIEM Event vs Alert generation, log pipeline optimization, alert prioritization frameworks, and executing accurate defensive verdicts (True vs False Positives).
