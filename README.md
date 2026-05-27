@@ -27,3 +27,5 @@ This repository dedicatedly documents the practical labs, analysis workflows, an
 ### Module 2: SOC Team Internals
 * **[SOC L1 Alert Triage](./SOC-L1-Alert-Triage.md)**
     * *Core Focus:* SIEM Event vs Alert generation, log pipeline optimization, alert prioritization frameworks, and executing accurate defensive verdicts (True vs False Positives).
+* **[SOC L1 Alert Reporting](./SOC-L1-Alert-Reporting.md)**
+    * *Core Focus:* Analytical reporting constraints, 5Ws triage templates, operational escalation triggers, and defensive crisis communication protocols.
