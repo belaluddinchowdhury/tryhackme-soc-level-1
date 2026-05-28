@@ -29,3 +29,5 @@ This repository dedicatedly documents the practical labs, analysis workflows, an
     * *Core Focus:* SIEM Event vs Alert generation, log pipeline optimization, alert prioritization frameworks, and executing accurate defensive verdicts (True vs False Positives).
 * **[SOC L1 Alert Reporting](./SOC-L1-Alert-Reporting.md)**
     * *Core Focus:* Alert reporting constraints, 5Ws triage templates, operational escalation triggers, and crisis communication protocols.
+* **[SOC Workbooks and Lookups](./SOC-L1-Workbooks-Lookups.md)**
+  * *Core Focus:* Operational context building using Identity and Asset inventories, internal network path reconstruction via topology diagrams, and structured Tier 1 triage playbook design.
