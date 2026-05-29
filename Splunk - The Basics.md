@@ -1,4 +1,4 @@
-TryHackMe: Splunk - The Basics 
+TryHackMe: Splunk_The Basics 
 Room Overview
 Room Name: Splunk: The Basics
 
