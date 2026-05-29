@@ -33,3 +33,6 @@ This repository dedicatedly documents the practical labs, analysis workflows, an
   * *Core Focus:* Operational context building using Identity and Asset inventories, internal network path reconstruction via topology diagrams, and structured Tier 1 triage playbook design.
 * **[SOC Metrics and Objectives](./SOC-L1-Metrics-Objectives.md)**
   * *Core Focus:* Operational volume metrics (AC, FPR, AER, TDR), timeline triage tracking (MTTD, MTTA, MTTR) mapped to formal SLAs, and systematic false positive remediation strategies.
+### ### Module 3: Core SOC Solutions
+* **[Introduction to EDR](./Introduction-to-EDR.md)**
+    * *Core Focus:* Endpoint telemetry extraction (PIDs, PPIDs, Registry Hooks), differentiating signature vs behavioral heuristic monitoring, and implementing defensive remediation strategies (Network Isolation, Process Termination).
