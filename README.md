@@ -36,3 +36,5 @@ This repository dedicatedly documents the practical labs, analysis workflows, an
 ### Module 3: Core SOC Solutions
 * **[Introduction to EDR](./Introduction-to-EDR.md)**
     * *Core Focus:* Endpoint telemetry extraction (PIDs, PPIDs, Registry Hooks), differentiating signature vs behavioral heuristic monitoring, and implementing defensive remediation strategies (Network Isolation, Process Termination).
+* **[Introduction to SIEM](./Introduction-to-SIEM.md)**
+  * *Core Focus:* Fundamental engineering architecture of SIEM data engines, log parsing pipelines, ingestion methodology differentiation (Syslog vs Agents), detection rule logic orchestration, and active triage of malicious execution metrics.
