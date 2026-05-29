@@ -38,5 +38,5 @@ This repository dedicatedly documents the practical labs, analysis workflows, an
     * *Core Focus:* Endpoint telemetry extraction (PIDs, PPIDs, Registry Hooks), differentiating signature vs behavioral heuristic monitoring, and implementing defensive remediation strategies (Network Isolation, Process Termination).
 * **[Introduction to SIEM](./Introduction-to-SIEM.md)**
   * *Core Focus:* Fundamental engineering architecture of SIEM data engines, log parsing pipelines, ingestion methodology differentiation (Syslog vs Agents), detection rule logic orchestration, and active triage of malicious execution metrics.
-* **[Splunk: The Basics](./Splunk-the-basics.md)**
-  * *Core Focus:* Structured pipeline anatomy, logical search parameters (NOT, !=), volume analysis commands (top, rare), dynamic field mapping, and optimizing Search Head performance through index filters.
+* **[Splunk: The Basics](./Splunk%20-%20The%20Basics.md)**
+  * *Core Focus:* Splunk architecture (Forwarder, Indexer, Search Head), structured data ingestion workflow, and fundamental SPL logic for log filtering and anomaly detection.
