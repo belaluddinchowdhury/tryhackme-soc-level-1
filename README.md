@@ -40,3 +40,5 @@ This repository dedicatedly documents the practical labs, analysis workflows, an
   * *Core Focus:* Fundamental engineering architecture of SIEM data engines, log parsing pipelines, ingestion methodology differentiation (Syslog vs Agents), detection rule logic orchestration, and active triage of malicious execution metrics.
 * **[Splunk: The Basics](./Splunk_The_Basics.md)**
   * *Core Focus:* Splunk architecture (Forwarder, Indexer, Search Head), structured data ingestion workflow, and fundamental SPL logic for log filtering and anomaly detection.
+* **[Elastic Stack: The Basics](./Elastic-Stack-The-Basics.md)**
+    * *Core Focus:* Architectural layout of the ELK engine, advanced multi-conditional KQL filtering, and constructing operational SIEM dashboards (`VPN_Activity`) to track unauthorized brute-force attempts.
