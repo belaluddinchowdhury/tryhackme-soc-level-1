@@ -42,3 +42,5 @@ This repository dedicatedly documents the practical labs, analysis workflows, an
   * *Core Focus:* Splunk architecture (Forwarder, Indexer, Search Head), structured data ingestion workflow, and fundamental SPL logic for log filtering and anomaly detection.
 * **[Elastic Stack: The Basics](./Elastic-Stack-The-Basics.md)**
     * *Core Focus:* Architectural layout of the ELK engine, advanced multi-conditional KQL filtering, and constructing operational SIEM dashboards (`VPN_Activity`) to track unauthorized brute-force attempts.
+* **[Introduction to SOAR](./Introduction_to_SOAR.md)**
+  * *Core Focus:* Analyzing traditional SOC operational bottlenecks, understanding the core pillars of SOAR (Orchestration, Automation, Response), evaluating automated branching playbooks (Phishing and CVE Patching), and engineering integrated Threat Intelligence response pipelines.
